@@ -17,6 +17,6 @@ Me chamo Alysson Costa, sou um programador front-end, atualmente estou fazendo p
   entre em contato através do:
   <br>
   <br>
-  <a href="https://mail.google.com/mail/u/0/#chats">
+  <a href="https://mail.google.com/mail/u/0/#chats/send-to-akolashork@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a/>
